@@ -4,7 +4,7 @@ This particular repository consists of Beer Case Study and different insights ar
 
 
 
-Repository consists of Jupiter notebook , to run the code on jupiter notebook if need to have Anaconda Installed.
+Repository consists of Jupiter notebook , to run the code on jupiter notebook Anaconda needs to be Installed.
 
 
 
