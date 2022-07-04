@@ -10,3 +10,6 @@ Repository consists of Jupiter notebook , to run the code on jupiter notebook if
 
 
 It also consists of a presentation which aims to explain the code and data insights to the audience.
+
+
+Please refer to the zip file for the Jupiter Notebook.
